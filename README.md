@@ -2,7 +2,7 @@
 
 Este repositório reúne atividades e projetos desenvolvidos ao longo da minha graduação em Ciência da Computação na Universidade Federal do Ceará.
 
-Tudo está organizado por disciplina, registrando meus feitos durante o curso.
+Tudo está organizado pelas disciplinas que eu mais gostei e mais me esforcei, registrando meus feitos durante o curso.
 
 ## Disciplinas
 
